@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import api from "../api/axiosInstance";
+import "../styles/AuthForm.css";
 
 export default function ForgotPassword() {
   const [email, setEmail] = useState("");
@@ -15,7 +16,7 @@ export default function ForgotPassword() {
   };
 
   return (
-    <div>
+    <div className="auth-container">
       <h2>비밀번호 찾기</h2>
       <input
         type="email"

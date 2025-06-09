@@ -8,16 +8,7 @@ export default function Header() {
   return (
     <header>
       <Link to="/">홈</Link>
-      {isLoggedIn ? (
-        <>
-          <button onClick={logout}>로그아웃</button>
-        </>
-      ) : (
-        <>
-          <Link to="/login">로그인</Link>
-          <Link to="/signup">회원가입</Link>
-        </>
-      )}
+      {isLoggedIn ? null : <Link to="/login">로그인</Link>}
     </header>
   );
 }

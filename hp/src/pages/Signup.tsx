@@ -1,6 +1,7 @@
 import React from "react";
 import api from "../api/axiosInstance";
 import { useState } from "react";
+import "../styles/AuthForm.css";
 
 export default function Signup() {
   const [email, setEmail] = useState("");
@@ -20,7 +21,7 @@ export default function Signup() {
   };
 
   return (
-    <div>
+    <div className="auth-container">
       <h2>회원가입</h2>
       <input
         placeholder="email"

@@ -10,6 +10,7 @@ import DeleteAccount from "./pages/DeleteAccount";
 import PostList from "./pages/PostList";
 import CreatePost from "./pages/CreatePost";
 import PostDetail from "./pages/PostDetail";
+import MyPage from "./pages/MyPage";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             <Route path="/forgot-password" element={<ForgotPassword />} />
             <Route path="/change-password" element={<ChangePassword />} />
             <Route path="/delete-account" element={<DeleteAccount />} />
+            <Route path="/mypage" element={<MyPage />} />
             <Route path="/posts" element={<PostList />} />
             <Route path="/create-post" element={<CreatePost />} />
             <Route path="/posts/:id" element={<PostDetail />} />
