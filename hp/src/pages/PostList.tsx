@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import api from "../api/axiosInstance";
 import { Link } from "react-router-dom";
+import "../styles/Community.css";
 
 interface Post {
   _id: string;
@@ -21,7 +22,7 @@ export default function PostList() {
   }, []);
 
   return (
-    <div>
+    <div className="post-list-container">
       <h2>📃 게시글 목록</h2>
       <Link to="/create-post">➕ 새 글 쓰기</Link>
       <ul>

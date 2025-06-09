@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import api from "../api/axiosInstance";
+import "../styles/Community.css";
 
 interface Reply {
   email: string;
@@ -139,7 +140,7 @@ export default function PostDetail() {
   if (!post) return <div>로딩 중...</div>;
 
   return (
-    <div>
+    <div className="post-detail-container">
       <h2>📄 게시글 상세</h2>
       {editing ? (
         <>

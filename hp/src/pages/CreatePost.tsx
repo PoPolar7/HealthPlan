@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import api from "../api/axiosInstance";
 import { useNavigate } from "react-router-dom";
+import "../styles/Community.css";
 
 export default function CreatePost() {
   const [title, setTitle] = useState("");
@@ -19,7 +20,7 @@ export default function CreatePost() {
   };
 
   return (
-    <div>
+    <div className="create-post-container">
       <h2>✍️ 게시글 작성</h2>
       <input
         placeholder="제목"
