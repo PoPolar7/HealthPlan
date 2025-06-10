@@ -1,4 +1,5 @@
 import React from "react";
+import "./index.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Signup from "./pages/Signup";
 import Login from "./pages/Login";
@@ -19,7 +20,6 @@ import HomePage from "./components/HomePage";
 import ExerciseDetailPage from "./components/ExerciseDetailPage";
 import RoutinePreviewPage from "./components/RoutinePreviewPage";
 import DashboardPage from "./components/DashboardPage";
-import "./index.css";
 
 function App() {
   return (
