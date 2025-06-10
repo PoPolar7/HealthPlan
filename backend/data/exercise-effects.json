@@ -1,0 +1,1003 @@
+
+{
+  "Box Squat": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "2 Handed Kettlebell Swing": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Jumping Jack HD": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Incline Chest-Supported Dumbbell Row": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Bent Over Rowing Reverse": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Swimming 50m sprints": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Crunch Bicicletta": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Rowing, Lying on Bench": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Renegade Row": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Meadows Row": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Dřep do Sedu na Box": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Crunches an Negativbank": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Rowing with TRX band": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Pendelay Rows": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Run - Treadmill": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "ClimbMill": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Alternative DB Gorilla rows": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Crunches an Maschine": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "High Row": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Kettlebell swing a una mano": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Levitation Crunch": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Squat Jumps": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Side Crunch": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Kettlebell Swing": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Helms Row": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "HIIT": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Stationary Bike": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Dumbbell Bent Over Row": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Rowing Machine": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Running": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Alternating High Cable Row": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "High Knee Jumps": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Trunk Rotation With Cable": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Battle Ropes": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Dumbbell rear delt row": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Lateral Walk": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Kroc Row": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Rowing, T-bar": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Plank Jacks": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Dumbbell Underhand Dead Row": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Lateral Rows on Cable, One Armed": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Recumbent Bike": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "LYING DUMBBELL ROW SS SEATED SHRUG": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Kettlebell Swings": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Incline Dumbbell Row": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Cable Row": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Elephant Walks": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Ball crunches": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Upright Row w/ Dumbbells": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Rowing, Seated": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Leverage Machine Iso Row": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Bent Over Dumbbell Rows": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Sled Push": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Bent Over Rowing": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Front Pull narrow": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Lat Pull Down (narrow grip)": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Bear Walk": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Dumbbell upright-row": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Crossbody Leg Swings": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Crunch a libretto con palla medica": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Leg Curls (sitting)": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Bent over Cable Flye": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Barbell Wrist Curl": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "DB Underhand bench press": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Overhead Triceps Extension": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Smith Machine Close-grip Bench Press": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Diagonal Shoulder Press": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Braced Squat": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "DB Cross Body Hammer Curls": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Dumbbell drag curls": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "One Arm Bent Row": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Hack Squats": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Double Kettlebell Clean and Press": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Incline Bench Reverse Fly - Hello": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Curl femoral sentado": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Standing Calf Raise": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Cable Fly": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Plancha Lateral HD": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Calf raises, left leg": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Cable Press Around": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "No Leg Drive Dumbbell Chest Press": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "TRX Tricep Extension": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Bodyweight Squat HD": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Double Kettlebell Front Squat": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Seated Dumbbell Curls": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Low Pulley Cable fFly": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "SMITH MACHINE SLIGHT INCLINE PRESS": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Spider Curl": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "French press": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Biceps Curls With Dumbbell": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Dragon squat": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Dumbbell Hex Press": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Incline Close Grip Barbell Bench Press": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Incline Dumbbell Press": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Dumbbell Split Squat": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Press Militar mancuerna": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Press Banca Sentado": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Bent-over Lateral Raises": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Press de banca sentado": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Dumbbell Cheat Curl": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Biceps Curls With SZ-bar": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Dumbbell Front Raise": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Overhead Squat": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Lat Machine (Piegati Indietro)": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Seated Dumbbell Side Lateral": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Reverse Nordic Curl": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Drop Curl": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Butterfly Eng": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Wrist curl, dumbbells": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Dumbbell Row": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Barbell Reverse Wrist Curl": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Dumbbell Chest Press": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Butterfly": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Romanian deadlift, single leg": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Overhead Cable Tricep Extension": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Dumbbell Deadlift": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Hip Raise, Lying": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Neutral Grip Lat Pulldown": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "TRX - curl de bíceps a un brazo": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Legs Curls": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Leverage Machine Chest Press": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Shrugs (Shoulder Raises)": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Curl femoral": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Double Leg Calf Raise": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Machine chest fly": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Butterfly Sit Up": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Lateral-to-Front Raises": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Pullover Machine": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Legs Extensions": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Overhand Cable Curl": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Curl con kettlebell una sola mano": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Seated Cable Rows": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Military Press mit SZ-Bar": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "JM Press": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Curl inversi con bilanciere": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "One Arm Triceps Extensions on Cable": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Calf Raises on Hackenschmitt Machine": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Remada unilateral no cabo": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Dumbbell close grip bench press": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Frenchpress SZ-Stange": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Dumbbell Triceps Extension": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Calf Raise using Hack Squat Machine": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "High-Incline Smith Machine Press": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Calf Raise with machine (seated)": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Cable External Rotation": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Flessioni del luccio": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Dips": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Dumbbell Single-leg Hip Thrust": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Beinheben am Roman Chair": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Toe Taps": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Incline OHP DB": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Axe Hold": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Good Morning": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Sitting Calf Raises": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Fingerboard 20 mm edge": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Agachamento parede": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Exercise Band Plantarflexion": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Lat-Ziehen Mit Gesteckten Armen Mit (Stange)": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Extensión de gluteos en polea": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Good Mornings": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Extensión de gluteo en  máquina": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Push-Ups | Parallettes": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Abdominales sovieticas": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Vpushup": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Affondi indietro alternati": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "3D lunge warmup": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Chin-ups": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Plancha con elevación de pierna": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Beinbeuger Stehend": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Jalón cerrado": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Toes to bar": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Addominali alla sbarra": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Triceps Dips (Assisted)": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Biceps con TRX": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Sit-Ups (elbow to knee)": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Elevated prayer stretch": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Prone Scapular Retraction - Arms at Side": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Adduktorenmaschine": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Single Leg RDL": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Abduktion im Stand": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Body-Ups": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Plate Pinch Hold": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Ausfallschritte Stehend": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Diamond push ups": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Accroupi": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Biceps concentrado": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Snatch OL": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Rudern Aufrecht ß-Stange": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "DB UCV": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Beinstrecker Einbeinig": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Cable Tricep Kickback": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Achterwaartse arm cirkels": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Shrugs an der MP": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Gemelos en prensa": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "L Hold": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Polpacci": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Handstand": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Chin Up": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Flexiones a pino": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Distensione lento avanti Bilanciere": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Forward shoulder rotation": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Bugarski podijeljeni čučanj lijevo": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Iperestensioni Lombari": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Kniebeuge an Hackenschmidtmaschine": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Barchetta": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "SEATED CABLE MID TRAP SHRUG": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Front Wood Chop": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Dumbbell Pullover": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Remo maquina abierto supino": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Hamstring Chokes": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Front Kniebeuge": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Croci con Manubri su Panca Declinata": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Towel Superman": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Hindu Pushups": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Talons fesses": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Exercise Band Dorsiflexion": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Beinheben Liegend": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Rudern Aufrecht MP": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Aperturas en polea": {
+    "weight": -0.005,
+    "muscle": 0.03
+  },
+  "Bugarski podijeljeni čučanj desno": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Barbell Ab Rollout": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Croci in sospensione": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Alongamento frontal do pescoço": {
+    "weight": -0.005,
+    "muscle": 0.05
+  },
+  "Standing biceps stretch right": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Dynamic side hold": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Single Leg Hamstring Stretch": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Trazioni orizzontali": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Upper External Oblique": {
+    "weight": -0.005,
+    "muscle": 0.07
+  },
+  "Crossbody Hamstring Stretch": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Angličáky bez kliku": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Back bridge": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Alzate le gambe": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Affondi": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Cobra Stretch": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "BUS DRIVERS": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Cable Cross-over": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Isometric Wipers": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Rest (for timed workouts)": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Estiramiento de rodilla al pecho": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Allenamento al sacco": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Bauchtrainer": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Underhand Lat Pull Down": {
+    "weight": -0.02,
+    "muscle": 0.03
+  },
+  "Brücke Auf Dem Ball": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Horizontal traction isometry": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "High Pull": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Piegamenti a una mano": {
+    "weight": -0.02,
+    "muscle": 0.05
+  },
+  "Sit Up Elbow Thrust": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Distensione Panca Inclinata Bilanciere": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Front Plank": {
+    "weight": -0.02,
+    "muscle": 0.07
+  },
+  "Coice": {
+    "weight": -0.02,
+    "muscle": 0.07
+  }
+}

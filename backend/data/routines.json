@@ -1,0 +1,2720 @@
+{
+  "체지방 감량": {
+    "복부": {
+      "하": [
+        {
+          "name": "Box Squat",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Box_Squat",
+          "part": "복부"
+        },
+        {
+          "name": "2 Handed Kettlebell Swing",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_2_Handed_Kettlebell_Swing",
+          "part": "복부"
+        },
+        {
+          "name": "Jumping Jack HD",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Jumping_Jack_HD",
+          "part": "복부"
+        },
+        {
+          "name": "Incline Chest-Supported Dumbbell Row",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Chest-Supported_Dumbbell_Row",
+          "part": "복부"
+        },
+        {
+          "name": "Bent Over Rowing Reverse",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Rowing_Reverse",
+          "part": "복부"
+        }
+      ],
+      "중": [
+        {
+          "name": "Swimming 50m sprints",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Swimming_50m_sprints",
+          "part": "복부"
+        },
+        {
+          "name": "Crunch Bicicletta",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunch_Bicicletta",
+          "part": "복부"
+        },
+        {
+          "name": "Rowing, Lying on Bench",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing,_Lying_on_Bench",
+          "part": "복부"
+        },
+        {
+          "name": "Renegade Row",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Renegade_Row",
+          "part": "복부"
+        },
+        {
+          "name": "Meadows Row",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Meadows_Row",
+          "part": "복부"
+        }
+      ],
+      "상": [
+        {
+          "name": "Dřep do Sedu na Box",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dřep_do_Sedu_na_Box",
+          "part": "복부"
+        },
+        {
+          "name": "Crunches an Negativbank",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunches_an_Negativbank",
+          "part": "복부"
+        },
+        {
+          "name": "Rowing with TRX band",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing_with_TRX_band",
+          "part": "복부"
+        },
+        {
+          "name": "Pendelay Rows",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Pendelay_Rows",
+          "part": "복부"
+        },
+        {
+          "name": "Run - Treadmill",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Run_-_Treadmill",
+          "part": "복부"
+        }
+      ]
+    },
+    "팔": {
+      "하": [
+        {
+          "name": "Renegade Row",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Renegade_Row",
+          "part": "팔"
+        },
+        {
+          "name": "Crunches an Negativbank",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunches_an_Negativbank",
+          "part": "팔"
+        },
+        {
+          "name": "ClimbMill",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_ClimbMill",
+          "part": "팔"
+        },
+        {
+          "name": "Alternative DB Gorilla rows",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Alternative_DB_Gorilla_rows",
+          "part": "팔"
+        },
+        {
+          "name": "Dřep do Sedu na Box",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dřep_do_Sedu_na_Box",
+          "part": "팔"
+        }
+      ],
+      "중": [
+        {
+          "name": "Crunches an Maschine",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunches_an_Maschine",
+          "part": "팔"
+        },
+        {
+          "name": "High Row",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_High_Row",
+          "part": "팔"
+        },
+        {
+          "name": "Kettlebell swing a una mano",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kettlebell_swing_a_una_mano",
+          "part": "팔"
+        },
+        {
+          "name": "Levitation Crunch",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Levitation_Crunch",
+          "part": "팔"
+        },
+        {
+          "name": "Squat Jumps",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Squat_Jumps",
+          "part": "팔"
+        }
+      ],
+      "상": [
+        {
+          "name": "Side Crunch",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Side_Crunch",
+          "part": "팔"
+        },
+        {
+          "name": "Kettlebell Swing",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kettlebell_Swing",
+          "part": "팔"
+        },
+        {
+          "name": "Helms Row",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Helms_Row",
+          "part": "팔"
+        },
+        {
+          "name": "HIIT",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_HIIT",
+          "part": "팔"
+        },
+        {
+          "name": "Stationary Bike",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Stationary_Bike",
+          "part": "팔"
+        }
+      ]
+    },
+    "등": {
+      "하": [
+        {
+          "name": "ClimbMill",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_ClimbMill",
+          "part": "등"
+        },
+        {
+          "name": "Dumbbell Bent Over Row",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Bent_Over_Row",
+          "part": "등"
+        },
+        {
+          "name": "Crunch Bicicletta",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunch_Bicicletta",
+          "part": "등"
+        },
+        {
+          "name": "Rowing Machine",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing_Machine",
+          "part": "등"
+        },
+        {
+          "name": "Running",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Running",
+          "part": "등"
+        }
+      ],
+      "중": [
+        {
+          "name": "Alternating High Cable Row",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Alternating_High_Cable_Row",
+          "part": "등"
+        },
+        {
+          "name": "High Knee Jumps",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_High_Knee_Jumps",
+          "part": "등"
+        },
+        {
+          "name": "Trunk Rotation With Cable",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Trunk_Rotation_With_Cable",
+          "part": "등"
+        },
+        {
+          "name": "Battle Ropes",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Battle_Ropes",
+          "part": "등"
+        },
+        {
+          "name": "Dumbbell rear delt row",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_rear_delt_row",
+          "part": "등"
+        }
+      ],
+      "상": [
+        {
+          "name": "Lateral Walk",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lateral_Walk",
+          "part": "등"
+        },
+        {
+          "name": "Bent Over Rowing Reverse",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Rowing_Reverse",
+          "part": "등"
+        },
+        {
+          "name": "Rowing with TRX band",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing_with_TRX_band",
+          "part": "등"
+        },
+        {
+          "name": "Squat Jumps",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Squat_Jumps",
+          "part": "등"
+        },
+        {
+          "name": "Kroc Row",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kroc_Row",
+          "part": "등"
+        }
+      ]
+    },
+    "가슴": {
+      "하": [
+        {
+          "name": "Rowing, T-bar",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing,_T-bar",
+          "part": "가슴"
+        },
+        {
+          "name": "Crunch Bicicletta",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunch_Bicicletta",
+          "part": "가슴"
+        },
+        {
+          "name": "Plank Jacks",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Plank_Jacks",
+          "part": "가슴"
+        },
+        {
+          "name": "Dumbbell Underhand Dead Row",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Underhand_Dead_Row",
+          "part": "가슴"
+        },
+        {
+          "name": "Dumbbell rear delt row",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_rear_delt_row",
+          "part": "가슴"
+        }
+      ],
+      "중": [
+        {
+          "name": "Squat Jumps",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Squat_Jumps",
+          "part": "가슴"
+        },
+        {
+          "name": "Lateral Rows on Cable, One Armed",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lateral_Rows_on_Cable,_One_Armed",
+          "part": "가슴"
+        },
+        {
+          "name": "Recumbent Bike",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Recumbent_Bike",
+          "part": "가슴"
+        },
+        {
+          "name": "LYING DUMBBELL ROW SS SEATED SHRUG",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_LYING_DUMBBELL_ROW_SS_SEATED_SHRUG",
+          "part": "가슴"
+        },
+        {
+          "name": "Kettlebell Swings",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kettlebell_Swings",
+          "part": "가슴"
+        }
+      ],
+      "상": [
+        {
+          "name": "Alternative DB Gorilla rows",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Alternative_DB_Gorilla_rows",
+          "part": "가슴"
+        },
+        {
+          "name": "Incline Dumbbell Row",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Dumbbell_Row",
+          "part": "가슴"
+        },
+        {
+          "name": "Dřep do Sedu na Box",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dřep_do_Sedu_na_Box",
+          "part": "가슴"
+        },
+        {
+          "name": "Cable Row",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cable_Row",
+          "part": "가슴"
+        },
+        {
+          "name": "Elephant Walks",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Elephant_Walks",
+          "part": "가슴"
+        }
+      ]
+    },
+    "하체": {
+      "하": [
+        {
+          "name": "LYING DUMBBELL ROW SS SEATED SHRUG",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_LYING_DUMBBELL_ROW_SS_SEATED_SHRUG",
+          "part": "하체"
+        },
+        {
+          "name": "Ball crunches",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Ball_crunches",
+          "part": "하체"
+        },
+        {
+          "name": "Swimming 50m sprints",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Swimming_50m_sprints",
+          "part": "하체"
+        },
+        {
+          "name": "Upright Row w/ Dumbbells",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Upright_Row_w/_Dumbbells",
+          "part": "하체"
+        },
+        {
+          "name": "Incline Dumbbell Row",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Dumbbell_Row",
+          "part": "하체"
+        }
+      ],
+      "중": [
+        {
+          "name": "Rowing, Seated",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing,_Seated",
+          "part": "하체"
+        },
+        {
+          "name": "Kettlebell Swing",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kettlebell_Swing",
+          "part": "하체"
+        },
+        {
+          "name": "Alternating High Cable Row",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Alternating_High_Cable_Row",
+          "part": "하체"
+        },
+        {
+          "name": "Levitation Crunch",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Levitation_Crunch",
+          "part": "하체"
+        },
+        {
+          "name": "Squat Jumps",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Squat_Jumps",
+          "part": "하체"
+        }
+      ],
+      "상": [
+        {
+          "name": "Leverage Machine Iso Row",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Leverage_Machine_Iso_Row",
+          "part": "하체"
+        },
+        {
+          "name": "Kroc Row",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kroc_Row",
+          "part": "하체"
+        },
+        {
+          "name": "Meadows Row",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Meadows_Row",
+          "part": "하체"
+        },
+        {
+          "name": "Stationary Bike",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Stationary_Bike",
+          "part": "하체"
+        },
+        {
+          "name": "Lateral Walk",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lateral_Walk",
+          "part": "하체"
+        }
+      ]
+    },
+    "어깨": {
+      "하": [
+        {
+          "name": "Kettlebell swing a una mano",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kettlebell_swing_a_una_mano",
+          "part": "어깨"
+        },
+        {
+          "name": "Battle Ropes",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Battle_Ropes",
+          "part": "어깨"
+        },
+        {
+          "name": "Rowing Machine",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing_Machine",
+          "part": "어깨"
+        },
+        {
+          "name": "Cable Row",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cable_Row",
+          "part": "어깨"
+        },
+        {
+          "name": "Dumbbell rear delt row",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_rear_delt_row",
+          "part": "어깨"
+        }
+      ],
+      "중": [
+        {
+          "name": "Pendelay Rows",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Pendelay_Rows",
+          "part": "어깨"
+        },
+        {
+          "name": "Bent Over Dumbbell Rows",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Dumbbell_Rows",
+          "part": "어깨"
+        },
+        {
+          "name": "Sled Push",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Sled_Push",
+          "part": "어깨"
+        },
+        {
+          "name": "Elephant Walks",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Elephant_Walks",
+          "part": "어깨"
+        },
+        {
+          "name": "Bent Over Rowing",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Rowing",
+          "part": "어깨"
+        }
+      ],
+      "상": [
+        {
+          "name": "Dřep do Sedu na Box",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dřep_do_Sedu_na_Box",
+          "part": "어깨"
+        },
+        {
+          "name": "Kroc Row",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kroc_Row",
+          "part": "어깨"
+        },
+        {
+          "name": "Run - Treadmill",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Run_-_Treadmill",
+          "part": "어깨"
+        },
+        {
+          "name": "Lateral Rows on Cable, One Armed",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lateral_Rows_on_Cable,_One_Armed",
+          "part": "어깨"
+        },
+        {
+          "name": "Front Pull narrow",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Front_Pull_narrow",
+          "part": "어깨"
+        }
+      ]
+    },
+    "유산소": {
+      "하": [
+        {
+          "name": "ClimbMill",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_ClimbMill",
+          "part": "유산소"
+        },
+        {
+          "name": "Lat Pull Down (narrow grip)",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lat_Pull_Down_(narrow_grip)",
+          "part": "유산소"
+        },
+        {
+          "name": "Rowing with TRX band",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing_with_TRX_band",
+          "part": "유산소"
+        },
+        {
+          "name": "Ball crunches",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Ball_crunches",
+          "part": "유산소"
+        },
+        {
+          "name": "Kettlebell Swings",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kettlebell_Swings",
+          "part": "유산소"
+        }
+      ],
+      "중": [
+        {
+          "name": "Bear Walk",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bear_Walk",
+          "part": "유산소"
+        },
+        {
+          "name": "Incline Chest-Supported Dumbbell Row",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Chest-Supported_Dumbbell_Row",
+          "part": "유산소"
+        },
+        {
+          "name": "Elephant Walks",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Elephant_Walks",
+          "part": "유산소"
+        },
+        {
+          "name": "Crunch Bicicletta",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunch_Bicicletta",
+          "part": "유산소"
+        },
+        {
+          "name": "Upright Row w/ Dumbbells",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Upright_Row_w/_Dumbbells",
+          "part": "유산소"
+        }
+      ],
+      "상": [
+        {
+          "name": "Swimming 50m sprints",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Swimming_50m_sprints",
+          "part": "유산소"
+        },
+        {
+          "name": "Dumbbell rear delt row",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_rear_delt_row",
+          "part": "유산소"
+        },
+        {
+          "name": "Dumbbell upright-row",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_upright-row",
+          "part": "유산소"
+        },
+        {
+          "name": "HIIT",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_HIIT",
+          "part": "유산소"
+        },
+        {
+          "name": "Bent Over Dumbbell Rows",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Dumbbell_Rows",
+          "part": "유산소"
+        }
+      ]
+    },
+    "전신": {
+      "하": [
+        {
+          "name": "LYING DUMBBELL ROW SS SEATED SHRUG",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_LYING_DUMBBELL_ROW_SS_SEATED_SHRUG",
+          "part": "전신"
+        },
+        {
+          "name": "Crunches an Negativbank",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunches_an_Negativbank",
+          "part": "전신"
+        },
+        {
+          "name": "Kroc Row",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kroc_Row",
+          "part": "전신"
+        },
+        {
+          "name": "Rowing, Seated",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing,_Seated",
+          "part": "전신"
+        },
+        {
+          "name": "Meadows Row",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Meadows_Row",
+          "part": "전신"
+        }
+      ],
+      "중": [
+        {
+          "name": "HIIT",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_HIIT",
+          "part": "전신"
+        },
+        {
+          "name": "Recumbent Bike",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Recumbent_Bike",
+          "part": "전신"
+        },
+        {
+          "name": "Lateral Rows on Cable, One Armed",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lateral_Rows_on_Cable,_One_Armed",
+          "part": "전신"
+        },
+        {
+          "name": "Helms Row",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Helms_Row",
+          "part": "전신"
+        },
+        {
+          "name": "Leverage Machine Iso Row",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Leverage_Machine_Iso_Row",
+          "part": "전신"
+        }
+      ],
+      "상": [
+        {
+          "name": "Front Pull narrow",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Front_Pull_narrow",
+          "part": "전신"
+        },
+        {
+          "name": "Crossbody Leg Swings",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crossbody_Leg_Swings",
+          "part": "전신"
+        },
+        {
+          "name": "Side Crunch",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Side_Crunch",
+          "part": "전신"
+        },
+        {
+          "name": "Rowing Machine",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing_Machine",
+          "part": "전신"
+        },
+        {
+          "name": "Crunch a libretto con palla medica",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crunch_a_libretto_con_palla_medica",
+          "part": "전신"
+        }
+      ]
+    }
+  },
+  "근육 증가": {
+    "복부": {
+      "하": [
+        {
+          "name": "Leg Curls (sitting)",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Leg_Curls_(sitting)",
+          "part": "복부"
+        },
+        {
+          "name": "Rowing, T-bar",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rowing,_T-bar",
+          "part": "복부"
+        },
+        {
+          "name": "Bent over Cable Flye",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_over_Cable_Flye",
+          "part": "복부"
+        },
+        {
+          "name": "Squat Jumps",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Squat_Jumps",
+          "part": "복부"
+        },
+        {
+          "name": "Lateral Walk",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lateral_Walk",
+          "part": "복부"
+        }
+      ],
+      "중": [
+        {
+          "name": "Barbell Wrist Curl",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Barbell_Wrist_Curl",
+          "part": "복부"
+        },
+        {
+          "name": "High Row",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_High_Row",
+          "part": "복부"
+        },
+        {
+          "name": "DB Underhand bench press",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_DB_Underhand_bench_press",
+          "part": "복부"
+        },
+        {
+          "name": "Overhead Triceps Extension",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Overhead_Triceps_Extension",
+          "part": "복부"
+        },
+        {
+          "name": "Smith Machine Close-grip Bench Press",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Smith_Machine_Close-grip_Bench_Press",
+          "part": "복부"
+        }
+      ],
+      "상": [
+        {
+          "name": "Diagonal Shoulder Press",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Diagonal_Shoulder_Press",
+          "part": "복부"
+        },
+        {
+          "name": "Braced Squat",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Braced_Squat",
+          "part": "복부"
+        },
+        {
+          "name": "DB Cross Body Hammer Curls",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_DB_Cross_Body_Hammer_Curls",
+          "part": "복부"
+        },
+        {
+          "name": "Dumbbell drag curls",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_drag_curls",
+          "part": "복부"
+        },
+        {
+          "name": "One Arm Bent Row",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_One_Arm_Bent_Row",
+          "part": "복부"
+        }
+      ]
+    },
+    "팔": {
+      "하": [
+        {
+          "name": "Hack Squats",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Hack_Squats",
+          "part": "팔"
+        },
+        {
+          "name": "Double Kettlebell Clean and Press",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Double_Kettlebell_Clean_and_Press",
+          "part": "팔"
+        },
+        {
+          "name": "Incline Bench Reverse Fly - Hello",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Bench_Reverse_Fly_-_Hello",
+          "part": "팔"
+        },
+        {
+          "name": "Curl femoral sentado",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Curl_femoral_sentado",
+          "part": "팔"
+        },
+        {
+          "name": "Standing Calf Raise",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Standing_Calf_Raise",
+          "part": "팔"
+        }
+      ],
+      "중": [
+        {
+          "name": "Cable Fly",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cable_Fly",
+          "part": "팔"
+        },
+        {
+          "name": "Plancha Lateral HD",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Plancha_Lateral_HD",
+          "part": "팔"
+        },
+        {
+          "name": "Calf raises, left leg",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Calf_raises,_left_leg",
+          "part": "팔"
+        },
+        {
+          "name": "Cable Press Around",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cable_Press_Around",
+          "part": "팔"
+        },
+        {
+          "name": "No Leg Drive Dumbbell Chest Press",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_No_Leg_Drive_Dumbbell_Chest_Press",
+          "part": "팔"
+        }
+      ],
+      "상": [
+        {
+          "name": "TRX Tricep Extension",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_TRX_Tricep_Extension",
+          "part": "팔"
+        },
+        {
+          "name": "Bodyweight Squat HD",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bodyweight_Squat_HD",
+          "part": "팔"
+        },
+        {
+          "name": "Double Kettlebell Front Squat",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Double_Kettlebell_Front_Squat",
+          "part": "팔"
+        },
+        {
+          "name": "Seated Dumbbell Curls",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Seated_Dumbbell_Curls",
+          "part": "팔"
+        },
+        {
+          "name": "Low Pulley Cable fFly",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Low_Pulley_Cable_fFly",
+          "part": "팔"
+        }
+      ]
+    },
+    "등": {
+      "하": [
+        {
+          "name": "SMITH MACHINE SLIGHT INCLINE PRESS",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_SMITH_MACHINE_SLIGHT_INCLINE_PRESS",
+          "part": "등"
+        },
+        {
+          "name": "Incline Dumbbell Row",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Dumbbell_Row",
+          "part": "등"
+        },
+        {
+          "name": "Spider Curl",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Spider_Curl",
+          "part": "등"
+        },
+        {
+          "name": "Double Kettlebell Clean and Press",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Double_Kettlebell_Clean_and_Press",
+          "part": "등"
+        },
+        {
+          "name": "French press",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_French_press",
+          "part": "등"
+        }
+      ],
+      "중": [
+        {
+          "name": "Box Squat",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Box_Squat",
+          "part": "등"
+        },
+        {
+          "name": "Biceps Curls With Dumbbell",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Biceps_Curls_With_Dumbbell",
+          "part": "등"
+        },
+        {
+          "name": "Dragon squat",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dragon_squat",
+          "part": "등"
+        },
+        {
+          "name": "Upright Row w/ Dumbbells",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Upright_Row_w/_Dumbbells",
+          "part": "등"
+        },
+        {
+          "name": "Bodyweight Squat HD",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bodyweight_Squat_HD",
+          "part": "등"
+        }
+      ],
+      "상": [
+        {
+          "name": "Dumbbell Hex Press",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Hex_Press",
+          "part": "등"
+        },
+        {
+          "name": "Incline Close Grip Barbell Bench Press",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Close_Grip_Barbell_Bench_Press",
+          "part": "등"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Dumbbell_Press",
+          "part": "등"
+        },
+        {
+          "name": "Dumbbell Split Squat",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Split_Squat",
+          "part": "등"
+        },
+        {
+          "name": "Cable Fly",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cable_Fly",
+          "part": "등"
+        }
+      ]
+    },
+    "가슴": {
+      "하": [
+        {
+          "name": "Press Militar mancuerna",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Press_Militar_mancuerna",
+          "part": "가슴"
+        },
+        {
+          "name": "Press Banca Sentado",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Press_Banca_Sentado",
+          "part": "가슴"
+        },
+        {
+          "name": "Bent-over Lateral Raises",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent-over_Lateral_Raises",
+          "part": "가슴"
+        },
+        {
+          "name": "Press de banca sentado",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Press_de_banca_sentado",
+          "part": "가슴"
+        },
+        {
+          "name": "Dumbbell Cheat Curl",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Cheat_Curl",
+          "part": "가슴"
+        }
+      ],
+      "중": [
+        {
+          "name": "Biceps Curls With SZ-bar",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Biceps_Curls_With_SZ-bar",
+          "part": "가슴"
+        },
+        {
+          "name": "Dumbbell Front Raise",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Front_Raise",
+          "part": "가슴"
+        },
+        {
+          "name": "Overhead Squat",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Overhead_Squat",
+          "part": "가슴"
+        },
+        {
+          "name": "Lat Machine (Piegati Indietro)",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lat_Machine_(Piegati_Indietro)",
+          "part": "가슴"
+        },
+        {
+          "name": "Seated Dumbbell Side Lateral",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Seated_Dumbbell_Side_Lateral",
+          "part": "가슴"
+        }
+      ],
+      "상": [
+        {
+          "name": "No Leg Drive Dumbbell Chest Press",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_No_Leg_Drive_Dumbbell_Chest_Press",
+          "part": "가슴"
+        },
+        {
+          "name": "Meadows Row",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Meadows_Row",
+          "part": "가슴"
+        },
+        {
+          "name": "Kroc Row",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kroc_Row",
+          "part": "가슴"
+        },
+        {
+          "name": "Incline Close Grip Barbell Bench Press",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Close_Grip_Barbell_Bench_Press",
+          "part": "가슴"
+        },
+        {
+          "name": "Reverse Nordic Curl",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Reverse_Nordic_Curl",
+          "part": "가슴"
+        }
+      ]
+    },
+    "하체": {
+      "하": [
+        {
+          "name": "Drop Curl",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Drop_Curl",
+          "part": "하체"
+        },
+        {
+          "name": "Butterfly Eng",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Butterfly_Eng",
+          "part": "하체"
+        },
+        {
+          "name": "Kroc Row",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kroc_Row",
+          "part": "하체"
+        },
+        {
+          "name": "Bent Over Rowing Reverse",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Rowing_Reverse",
+          "part": "하체"
+        },
+        {
+          "name": "Wrist curl, dumbbells",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Wrist_curl,_dumbbells",
+          "part": "하체"
+        }
+      ],
+      "중": [
+        {
+          "name": "Reverse Nordic Curl",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Reverse_Nordic_Curl",
+          "part": "하체"
+        },
+        {
+          "name": "Dumbbell Row",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Row",
+          "part": "하체"
+        },
+        {
+          "name": "Barbell Reverse Wrist Curl",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Barbell_Reverse_Wrist_Curl",
+          "part": "하체"
+        },
+        {
+          "name": "Lateral Rows on Cable, One Armed",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lateral_Rows_on_Cable,_One_Armed",
+          "part": "하체"
+        },
+        {
+          "name": "Bent Over Dumbbell Rows",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Dumbbell_Rows",
+          "part": "하체"
+        }
+      ],
+      "상": [
+        {
+          "name": "Dumbbell Chest Press",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Chest_Press",
+          "part": "하체"
+        },
+        {
+          "name": "Butterfly",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Butterfly",
+          "part": "하체"
+        },
+        {
+          "name": "Romanian deadlift, single leg",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Romanian_deadlift,_single_leg",
+          "part": "하체"
+        },
+        {
+          "name": "Dumbbell Chest Press",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Chest_Press",
+          "part": "하체"
+        },
+        {
+          "name": "Diagonal Shoulder Press",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Diagonal_Shoulder_Press",
+          "part": "하체"
+        }
+      ]
+    },
+    "어깨": {
+      "하": [
+        {
+          "name": "Helms Row",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Helms_Row",
+          "part": "어깨"
+        },
+        {
+          "name": "Overhead Cable Tricep Extension",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Overhead_Cable_Tricep_Extension",
+          "part": "어깨"
+        },
+        {
+          "name": "Dumbbell Deadlift",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Deadlift",
+          "part": "어깨"
+        },
+        {
+          "name": "Hip Raise, Lying",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Hip_Raise,_Lying",
+          "part": "어깨"
+        },
+        {
+          "name": "Neutral Grip Lat Pulldown",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Neutral_Grip_Lat_Pulldown",
+          "part": "어깨"
+        }
+      ],
+      "중": [
+        {
+          "name": "TRX - curl de bíceps a un brazo",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_TRX_-_curl_de_bíceps_a_un_brazo",
+          "part": "어깨"
+        },
+        {
+          "name": "Legs Curls",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Legs_Curls",
+          "part": "어깨"
+        },
+        {
+          "name": "One Arm Bent Row",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_One_Arm_Bent_Row",
+          "part": "어깨"
+        },
+        {
+          "name": "Barbell Wrist Curl",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Barbell_Wrist_Curl",
+          "part": "어깨"
+        },
+        {
+          "name": "Leverage Machine Chest Press",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Leverage_Machine_Chest_Press",
+          "part": "어깨"
+        }
+      ],
+      "상": [
+        {
+          "name": "Shrugs (Shoulder Raises)",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Shrugs_(Shoulder_Raises)",
+          "part": "어깨"
+        },
+        {
+          "name": "SMITH MACHINE SLIGHT INCLINE PRESS",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_SMITH_MACHINE_SLIGHT_INCLINE_PRESS",
+          "part": "어깨"
+        },
+        {
+          "name": "Curl femoral",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Curl_femoral",
+          "part": "어깨"
+        },
+        {
+          "name": "Bent Over Dumbbell Rows",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Dumbbell_Rows",
+          "part": "어깨"
+        },
+        {
+          "name": "Double Leg Calf Raise",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Double_Leg_Calf_Raise",
+          "part": "어깨"
+        }
+      ]
+    },
+    "유산소": {
+      "하": [
+        {
+          "name": "Machine chest fly",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Machine_chest_fly",
+          "part": "유산소"
+        },
+        {
+          "name": "Double Leg Calf Raise",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Double_Leg_Calf_Raise",
+          "part": "유산소"
+        },
+        {
+          "name": "Butterfly Eng",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Butterfly_Eng",
+          "part": "유산소"
+        },
+        {
+          "name": "Butterfly Sit Up",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Butterfly_Sit_Up",
+          "part": "유산소"
+        },
+        {
+          "name": "Lateral-to-Front Raises",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lateral-to-Front_Raises",
+          "part": "유산소"
+        }
+      ],
+      "중": [
+        {
+          "name": "Pullover Machine",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Pullover_Machine",
+          "part": "유산소"
+        },
+        {
+          "name": "Bent Over Rowing",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent_Over_Rowing",
+          "part": "유산소"
+        },
+        {
+          "name": "Legs Extensions",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Legs_Extensions",
+          "part": "유산소"
+        },
+        {
+          "name": "Overhand Cable Curl",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Overhand_Cable_Curl",
+          "part": "유산소"
+        },
+        {
+          "name": "Curl con kettlebell una sola mano",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Curl_con_kettlebell_una_sola_mano",
+          "part": "유산소"
+        }
+      ],
+      "상": [
+        {
+          "name": "Seated Cable Rows",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Seated_Cable_Rows",
+          "part": "유산소"
+        },
+        {
+          "name": "Military Press mit SZ-Bar",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Military_Press_mit_SZ-Bar",
+          "part": "유산소"
+        },
+        {
+          "name": "JM Press",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_JM_Press",
+          "part": "유산소"
+        },
+        {
+          "name": "Dumbbell Cheat Curl",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Cheat_Curl",
+          "part": "유산소"
+        },
+        {
+          "name": "Curl inversi con bilanciere",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Curl_inversi_con_bilanciere",
+          "part": "유산소"
+        }
+      ]
+    },
+    "전신": {
+      "하": [
+        {
+          "name": "One Arm Triceps Extensions on Cable",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_One_Arm_Triceps_Extensions_on_Cable",
+          "part": "전신"
+        },
+        {
+          "name": "Calf Raises on Hackenschmitt Machine",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Calf_Raises_on_Hackenschmitt_Machine",
+          "part": "전신"
+        },
+        {
+          "name": "Bent-over Lateral Raises",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bent-over_Lateral_Raises",
+          "part": "전신"
+        },
+        {
+          "name": "Remada unilateral no cabo",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Remada_unilateral_no_cabo",
+          "part": "전신"
+        },
+        {
+          "name": "Dumbbell close grip bench press",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_close_grip_bench_press",
+          "part": "전신"
+        }
+      ],
+      "중": [
+        {
+          "name": "Frenchpress SZ-Stange",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Frenchpress_SZ-Stange",
+          "part": "전신"
+        },
+        {
+          "name": "Dumbbell Triceps Extension",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Triceps_Extension",
+          "part": "전신"
+        },
+        {
+          "name": "Leg Curls (sitting)",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Leg_Curls_(sitting)",
+          "part": "전신"
+        },
+        {
+          "name": "Calf Raise using Hack Squat Machine",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Calf_Raise_using_Hack_Squat_Machine",
+          "part": "전신"
+        },
+        {
+          "name": "High-Incline Smith Machine Press",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_High-Incline_Smith_Machine_Press",
+          "part": "전신"
+        }
+      ],
+      "상": [
+        {
+          "name": "Incline Dumbbell Row",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Dumbbell_Row",
+          "part": "전신"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Dumbbell_Press",
+          "part": "전신"
+        },
+        {
+          "name": "Smith Machine Close-grip Bench Press",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Smith_Machine_Close-grip_Bench_Press",
+          "part": "전신"
+        },
+        {
+          "name": "Incline Bench Reverse Fly - Hello",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_Bench_Reverse_Fly_-_Hello",
+          "part": "전신"
+        },
+        {
+          "name": "Calf Raise with machine (seated)",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Calf_Raise_with_machine_(seated)",
+          "part": "전신"
+        }
+      ]
+    }
+  },
+  "체력 강화": {
+    "복부": {
+      "하": [
+        {
+          "name": "Cable External Rotation",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cable_External_Rotation",
+          "part": "복부"
+        },
+        {
+          "name": "Butterfly Sit Up",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Butterfly_Sit_Up",
+          "part": "복부"
+        },
+        {
+          "name": "Flessioni del luccio",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Flessioni_del_luccio",
+          "part": "복부"
+        },
+        {
+          "name": "Dips",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dips",
+          "part": "복부"
+        },
+        {
+          "name": "Dumbbell Single-leg Hip Thrust",
+          "difficulty": "하",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Single-leg_Hip_Thrust",
+          "part": "복부"
+        }
+      ],
+      "중": [
+        {
+          "name": "Beinheben am Roman Chair",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Beinheben_am_Roman_Chair",
+          "part": "복부"
+        },
+        {
+          "name": "Toe Taps",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Toe_Taps",
+          "part": "복부"
+        },
+        {
+          "name": "Incline OHP DB",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Incline_OHP_DB",
+          "part": "복부"
+        },
+        {
+          "name": "Axe Hold",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Axe_Hold",
+          "part": "복부"
+        },
+        {
+          "name": "Good Morning",
+          "difficulty": "중",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Good_Morning",
+          "part": "복부"
+        }
+      ],
+      "상": [
+        {
+          "name": "Sitting Calf Raises",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Sitting_Calf_Raises",
+          "part": "복부"
+        },
+        {
+          "name": "Fingerboard 20 mm edge",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Fingerboard_20_mm_edge",
+          "part": "복부"
+        },
+        {
+          "name": "Agachamento parede",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Agachamento_parede",
+          "part": "복부"
+        },
+        {
+          "name": "Exercise Band Plantarflexion",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Exercise_Band_Plantarflexion",
+          "part": "복부"
+        },
+        {
+          "name": "Lat-Ziehen Mit Gesteckten Armen Mit (Stange)",
+          "difficulty": "상",
+          "description": "복부 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Lat-Ziehen_Mit_Gesteckten_Armen_Mit_(Stange)",
+          "part": "복부"
+        }
+      ]
+    },
+    "팔": {
+      "하": [
+        {
+          "name": "Extensión de gluteos en polea",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Extensión_de_gluteos_en_polea",
+          "part": "팔"
+        },
+        {
+          "name": "Good Mornings",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Good_Mornings",
+          "part": "팔"
+        },
+        {
+          "name": "Extensión de gluteo en  máquina",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Extensión_de_gluteo_en__máquina",
+          "part": "팔"
+        },
+        {
+          "name": "Push-Ups | Parallettes",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Push-Ups_|_Parallettes",
+          "part": "팔"
+        },
+        {
+          "name": "Abdominales sovieticas",
+          "difficulty": "하",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Abdominales_sovieticas",
+          "part": "팔"
+        }
+      ],
+      "중": [
+        {
+          "name": "Vpushup",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Vpushup",
+          "part": "팔"
+        },
+        {
+          "name": "Affondi indietro alternati",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Affondi_indietro_alternati",
+          "part": "팔"
+        },
+        {
+          "name": "3D lunge warmup",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_3D_lunge_warmup",
+          "part": "팔"
+        },
+        {
+          "name": "Chin-ups",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Chin-ups",
+          "part": "팔"
+        },
+        {
+          "name": "Plancha con elevación de pierna",
+          "difficulty": "중",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Plancha_con_elevación_de_pierna",
+          "part": "팔"
+        }
+      ],
+      "상": [
+        {
+          "name": "Beinbeuger Stehend",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Beinbeuger_Stehend",
+          "part": "팔"
+        },
+        {
+          "name": "Jalón cerrado",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Jalón_cerrado",
+          "part": "팔"
+        },
+        {
+          "name": "Toes to bar",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Toes_to_bar",
+          "part": "팔"
+        },
+        {
+          "name": "Addominali alla sbarra",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Addominali_alla_sbarra",
+          "part": "팔"
+        },
+        {
+          "name": "Triceps Dips (Assisted)",
+          "difficulty": "상",
+          "description": "팔 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Triceps_Dips_(Assisted)",
+          "part": "팔"
+        }
+      ]
+    },
+    "등": {
+      "하": [
+        {
+          "name": "Biceps con TRX",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Biceps_con_TRX",
+          "part": "등"
+        },
+        {
+          "name": "Sit-Ups (elbow to knee)",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Sit-Ups_(elbow_to_knee)",
+          "part": "등"
+        },
+        {
+          "name": "Elevated prayer stretch",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Elevated_prayer_stretch",
+          "part": "등"
+        },
+        {
+          "name": "Prone Scapular Retraction - Arms at Side",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Prone_Scapular_Retraction_-_Arms_at_Side",
+          "part": "등"
+        },
+        {
+          "name": "Adduktorenmaschine",
+          "difficulty": "하",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Adduktorenmaschine",
+          "part": "등"
+        }
+      ],
+      "중": [
+        {
+          "name": "Single Leg RDL",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Single_Leg_RDL",
+          "part": "등"
+        },
+        {
+          "name": "Abduktion im Stand",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Abduktion_im_Stand",
+          "part": "등"
+        },
+        {
+          "name": "Body-Ups",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Body-Ups",
+          "part": "등"
+        },
+        {
+          "name": "Plate Pinch Hold",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Plate_Pinch_Hold",
+          "part": "등"
+        },
+        {
+          "name": "Ausfallschritte Stehend",
+          "difficulty": "중",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Ausfallschritte_Stehend",
+          "part": "등"
+        }
+      ],
+      "상": [
+        {
+          "name": "Diamond push ups",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Diamond_push_ups",
+          "part": "등"
+        },
+        {
+          "name": "Accroupi",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Accroupi",
+          "part": "등"
+        },
+        {
+          "name": "Biceps concentrado",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Biceps_concentrado",
+          "part": "등"
+        },
+        {
+          "name": "Snatch OL",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Snatch_OL",
+          "part": "등"
+        },
+        {
+          "name": "Rudern Aufrecht ß-Stange",
+          "difficulty": "상",
+          "description": "등 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rudern_Aufrecht_ß-Stange",
+          "part": "등"
+        }
+      ]
+    },
+    "가슴": {
+      "하": [
+        {
+          "name": "Push-Ups | Parallettes",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Push-Ups_|_Parallettes",
+          "part": "가슴"
+        },
+        {
+          "name": "DB UCV",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_DB_UCV",
+          "part": "가슴"
+        },
+        {
+          "name": "Beinstrecker Einbeinig",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Beinstrecker_Einbeinig",
+          "part": "가슴"
+        },
+        {
+          "name": "Cable Tricep Kickback",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cable_Tricep_Kickback",
+          "part": "가슴"
+        },
+        {
+          "name": "Achterwaartse arm cirkels",
+          "difficulty": "하",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Achterwaartse_arm_cirkels",
+          "part": "가슴"
+        }
+      ],
+      "중": [
+        {
+          "name": "Shrugs an der MP",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Shrugs_an_der_MP",
+          "part": "가슴"
+        },
+        {
+          "name": "Gemelos en prensa",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Gemelos_en_prensa",
+          "part": "가슴"
+        },
+        {
+          "name": "L Hold",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_L_Hold",
+          "part": "가슴"
+        },
+        {
+          "name": "Polpacci",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Polpacci",
+          "part": "가슴"
+        },
+        {
+          "name": "Handstand",
+          "difficulty": "중",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Handstand",
+          "part": "가슴"
+        }
+      ],
+      "상": [
+        {
+          "name": "Chin Up",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Chin_Up",
+          "part": "가슴"
+        },
+        {
+          "name": "Flexiones a pino",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Flexiones_a_pino",
+          "part": "가슴"
+        },
+        {
+          "name": "Distensione lento avanti Bilanciere",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Distensione_lento_avanti_Bilanciere",
+          "part": "가슴"
+        },
+        {
+          "name": "Forward shoulder rotation",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Forward_shoulder_rotation",
+          "part": "가슴"
+        },
+        {
+          "name": "Bugarski podijeljeni čučanj lijevo",
+          "difficulty": "상",
+          "description": "가슴 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bugarski_podijeljeni_čučanj_lijevo",
+          "part": "가슴"
+        }
+      ]
+    },
+    "하체": {
+      "하": [
+        {
+          "name": "Levitation Crunch",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Levitation_Crunch",
+          "part": "하체"
+        },
+        {
+          "name": "Iperestensioni Lombari",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Iperestensioni_Lombari",
+          "part": "하체"
+        },
+        {
+          "name": "Kniebeuge an Hackenschmidtmaschine",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Kniebeuge_an_Hackenschmidtmaschine",
+          "part": "하체"
+        },
+        {
+          "name": "Biceps con TRX",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Biceps_con_TRX",
+          "part": "하체"
+        },
+        {
+          "name": "Barchetta",
+          "difficulty": "하",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Barchetta",
+          "part": "하체"
+        }
+      ],
+      "중": [
+        {
+          "name": "SEATED CABLE MID TRAP SHRUG",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_SEATED_CABLE_MID_TRAP_SHRUG",
+          "part": "하체"
+        },
+        {
+          "name": "Front Wood Chop",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Front_Wood_Chop",
+          "part": "하체"
+        },
+        {
+          "name": "Dumbbell Single-leg Hip Thrust",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Single-leg_Hip_Thrust",
+          "part": "하체"
+        },
+        {
+          "name": "Dumbbell Pullover",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dumbbell_Pullover",
+          "part": "하체"
+        },
+        {
+          "name": "Remo maquina abierto supino",
+          "difficulty": "중",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Remo_maquina_abierto_supino",
+          "part": "하체"
+        }
+      ],
+      "상": [
+        {
+          "name": "Hamstring Chokes",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Hamstring_Chokes",
+          "part": "하체"
+        },
+        {
+          "name": "Front Kniebeuge",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Front_Kniebeuge",
+          "part": "하체"
+        },
+        {
+          "name": "Croci con Manubri su Panca Declinata",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Croci_con_Manubri_su_Panca_Declinata",
+          "part": "하체"
+        },
+        {
+          "name": "Towel Superman",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Towel_Superman",
+          "part": "하체"
+        },
+        {
+          "name": "Hindu Pushups",
+          "difficulty": "상",
+          "description": "하체 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Hindu_Pushups",
+          "part": "하체"
+        }
+      ]
+    },
+    "어깨": {
+      "하": [
+        {
+          "name": "Talons fesses",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Talons_fesses",
+          "part": "어깨"
+        },
+        {
+          "name": "Exercise Band Dorsiflexion",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Exercise_Band_Dorsiflexion",
+          "part": "어깨"
+        },
+        {
+          "name": "Beinheben Liegend",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Beinheben_Liegend",
+          "part": "어깨"
+        },
+        {
+          "name": "Rudern Aufrecht MP",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rudern_Aufrecht_MP",
+          "part": "어깨"
+        },
+        {
+          "name": "Aperturas en polea",
+          "difficulty": "하",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Aperturas_en_polea",
+          "part": "어깨"
+        }
+      ],
+      "중": [
+        {
+          "name": "Butterfly Sit Up",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Butterfly_Sit_Up",
+          "part": "어깨"
+        },
+        {
+          "name": "Bugarski podijeljeni čučanj desno",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bugarski_podijeljeni_čučanj_desno",
+          "part": "어깨"
+        },
+        {
+          "name": "Barbell Ab Rollout",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Barbell_Ab_Rollout",
+          "part": "어깨"
+        },
+        {
+          "name": "Croci in sospensione",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Croci_in_sospensione",
+          "part": "어깨"
+        },
+        {
+          "name": "Alongamento frontal do pescoço",
+          "difficulty": "중",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Alongamento_frontal_do_pescoço",
+          "part": "어깨"
+        }
+      ],
+      "상": [
+        {
+          "name": "Standing biceps stretch right",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Standing_biceps_stretch_right",
+          "part": "어깨"
+        },
+        {
+          "name": "Dynamic side hold",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Dynamic_side_hold",
+          "part": "어깨"
+        },
+        {
+          "name": "Single Leg Hamstring Stretch",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Single_Leg_Hamstring_Stretch",
+          "part": "어깨"
+        },
+        {
+          "name": "Trazioni orizzontali",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Trazioni_orizzontali",
+          "part": "어깨"
+        },
+        {
+          "name": "Upper External Oblique",
+          "difficulty": "상",
+          "description": "어깨 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Upper_External_Oblique",
+          "part": "어깨"
+        }
+      ]
+    },
+    "유산소": {
+      "하": [
+        {
+          "name": "Crossbody Hamstring Stretch",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Crossbody_Hamstring_Stretch",
+          "part": "유산소"
+        },
+        {
+          "name": "Angličáky bez kliku",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Angličáky_bez_kliku",
+          "part": "유산소"
+        },
+        {
+          "name": "Axe Hold",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Axe_Hold",
+          "part": "유산소"
+        },
+        {
+          "name": "Back bridge",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Back_bridge",
+          "part": "유산소"
+        },
+        {
+          "name": "Biceps concentrado",
+          "difficulty": "하",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Biceps_concentrado",
+          "part": "유산소"
+        }
+      ],
+      "중": [
+        {
+          "name": "Hindu Pushups",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Hindu_Pushups",
+          "part": "유산소"
+        },
+        {
+          "name": "Sitting Calf Raises",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Sitting_Calf_Raises",
+          "part": "유산소"
+        },
+        {
+          "name": "Alzate le gambe",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Alzate_le_gambe",
+          "part": "유산소"
+        },
+        {
+          "name": "Affondi",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Affondi",
+          "part": "유산소"
+        },
+        {
+          "name": "Cobra Stretch",
+          "difficulty": "중",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cobra_Stretch",
+          "part": "유산소"
+        }
+      ],
+      "상": [
+        {
+          "name": "Levitation Crunch",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Levitation_Crunch",
+          "part": "유산소"
+        },
+        {
+          "name": "BUS DRIVERS",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_BUS_DRIVERS",
+          "part": "유산소"
+        },
+        {
+          "name": "Cable Cross-over",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Cable_Cross-over",
+          "part": "유산소"
+        },
+        {
+          "name": "Isometric Wipers",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Isometric_Wipers",
+          "part": "유산소"
+        },
+        {
+          "name": "Upper External Oblique",
+          "difficulty": "상",
+          "description": "유산소 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Upper_External_Oblique",
+          "part": "유산소"
+        }
+      ]
+    },
+    "전신": {
+      "하": [
+        {
+          "name": "Rest (for timed workouts)",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Rest_(for_timed_workouts)",
+          "part": "전신"
+        },
+        {
+          "name": "Estiramiento de rodilla al pecho",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Estiramiento_de_rodilla_al_pecho",
+          "part": "전신"
+        },
+        {
+          "name": "Allenamento al sacco",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Allenamento_al_sacco",
+          "part": "전신"
+        },
+        {
+          "name": "Bauchtrainer",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Bauchtrainer",
+          "part": "전신"
+        },
+        {
+          "name": "Underhand Lat Pull Down",
+          "difficulty": "하",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Underhand_Lat_Pull_Down",
+          "part": "전신"
+        }
+      ],
+      "중": [
+        {
+          "name": "Brücke Auf Dem Ball",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Brücke_Auf_Dem_Ball",
+          "part": "전신"
+        },
+        {
+          "name": "Beinbeuger Stehend",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Beinbeuger_Stehend",
+          "part": "전신"
+        },
+        {
+          "name": "Horizontal traction isometry",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Horizontal_traction_isometry",
+          "part": "전신"
+        },
+        {
+          "name": "High Pull",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_High_Pull",
+          "part": "전신"
+        },
+        {
+          "name": "Piegamenti a una mano",
+          "difficulty": "중",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Piegamenti_a_una_mano",
+          "part": "전신"
+        }
+      ],
+      "상": [
+        {
+          "name": "Elevated prayer stretch",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Elevated_prayer_stretch",
+          "part": "전신"
+        },
+        {
+          "name": "Sit Up Elbow Thrust",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Sit_Up_Elbow_Thrust",
+          "part": "전신"
+        },
+        {
+          "name": "Distensione Panca Inclinata Bilanciere",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Distensione_Panca_Inclinata_Bilanciere",
+          "part": "전신"
+        },
+        {
+          "name": "Front Plank",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Front_Plank",
+          "part": "전신"
+        },
+        {
+          "name": "Coice",
+          "difficulty": "상",
+          "description": "전신 부위를 자극하는 대표적인 운동입니다.",
+          "videoUrl": "https://www.youtube.com/watch?v=example_Coice",
+          "part": "전신"
+        }
+      ]
+    }
+  }
+}
